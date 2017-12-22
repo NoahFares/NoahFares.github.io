@@ -1,0 +1,63 @@
+body {
+	position: relative;
+    background-image: url("https://i.pinimg.com/736x/d9/40/20/d940201d892dc4f18982bc3e22d17e41--iphone--wallpaper-dark-phone-wallpapers.jpg");
+	max-width: 1885px;
+	height: 3000px;
+	
+}
+
+p {
+	font-size: 20px;
+	font-family: Courier New;
+	opacity: 0.5;
+	color: white;
+}
+a{
+	font-size: 40px;
+	font-family: Courier New;
+	margin-top: 400px;
+	width: 100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	position: fixed;
+    top: 0;
+    width: 100%;
+	margin-left: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+	margin: 0;
+}
+
+li a:hover {
+    background-color: #111;
+}
+.background{
+	
+}
+
+
+.gameTitle {
+	font-size: 60px;
+	color: blue;
+	text-align: center;
+	font-family: Impact;
+	letter-spacing: 5px;
+}
+
+
+
